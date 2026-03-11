@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [Android app development](https://www.intuz.com/android-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
 INTUZ is presenting an interesting Custom Stripe-Payment Control to integrate inside your native Android-based application. 
 Stripe-Payment is a simple component, which lets you easy payment integration. 
 <br/><br/>
